@@ -1,0 +1,13 @@
+app_shell.c:44:6:app_shell_init	24	static
+app_shell.c:70:6:app_shell_set_context	16	static
+app_shell.c:75:9:app_shell_task	24	static
+app_shell.c:266:16:help_cmd	32	static
+app_shell.c:277:16:exit_cmd	24	static
+app_shell.c:285:13:process_cmd	296	static
+app_shell.c:369:13:get_history_cmd	24	static
+app_shell.c:400:13:auto_complete	48	static
+app_shell.c:460:14:custom_str_cpy	32	static
+app_shell.c:473:16:custom_str_cmp	24	static
+app_shell.c:485:16:parse_line	40	static
+app_shell.c:540:9:app_shell_register_cmd	24	static
+app_shell.c:556:16:get_char	24	static

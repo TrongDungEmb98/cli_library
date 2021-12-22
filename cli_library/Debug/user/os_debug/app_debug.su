@@ -1,0 +1,2 @@
+app_debug.c:14:5:app_debug_rtt	536	static
+app_debug.c:43:6:app_debug_hex	544	static
